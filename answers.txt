@@ -1,0 +1,1 @@
+a) The scrum owner is the equivalent to the Product owner in a non-Agile project. The role and need of the Product Owner in Agile Methodology is to maximize the value delivered by the team by ensuring that the team backlog is tailored to the customer and stakeholder needs.
